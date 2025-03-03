@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the app
-st.title("Simple Calculator")
+st.title("Calculator")
 
 # Create two columns
 col1, col2 = st.columns(2)
